@@ -1,0 +1,24 @@
+.bg{
+    background-color: dodgerblue;
+    height: 100vh;
+    
+}
+.center{
+    
+}
+.pop{
+    border-radius: 10px;
+    box-shadow: 0 8px 16px;
+    position: absolute;
+    height: 21rem;
+    margin: 0 auto;
+    margin-top: 13%;
+    background-color: aliceblue;
+
+    
+    
+}
+form{
+    
+    width:100%;
+}
